@@ -68,3 +68,7 @@ INSERT INTO `products` (`id`, `name`, `description`, `price`, `category_id`, `cr
 (48, 'Bristol Shoes', 'Awesome shoes.', '999', 5, '2016-01-08 06:36:37', '2016-01-08 05:36:37'),
 (60, 'Rolex Watch', 'Luxury watch.', '25000', 1, '2016-01-11 15:46:02', '2016-01-11 14:46:02');
 ```
+
+## HTTP Response Method for RESTFUL API
+This Project is not using universal http response code, please use this as reference
+https://www.restapitutorial.com/lessons/httpmethods.html
