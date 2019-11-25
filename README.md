@@ -1,12 +1,13 @@
 # phpRESTApi
 Basic testing REST API with php
 
-
 PHP testing reference from:
 1.  https://www.codeofaninja.com/2017/02/create-simple-rest-api-in-php.html
 2.  https://www.phpflow.com/php/create-php-restful-api-without-rest-framework-dependency/
 
-Folder Testing is RESTFUL by combining references, and setup by setting .htaccess, as the other folder is from reference no.1.
+This Project it got 2 project:
+1.  Basically the same as reference no.1, there's no difference. It's just for learning(type) from author
+2.  Combining reference no.1 and 2, and resulting RESTFUL by setting up .htaccess. this project is only on folder TestingRestful API
 
 This REST API is not completely perfect but still can use for reference
 
